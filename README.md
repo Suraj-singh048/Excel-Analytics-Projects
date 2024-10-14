@@ -1,2 +1,2 @@
 # Excel-Analytics-Projects
-This repository contains various complex and Advance Excel Reports and projects including Busieness, Sales, Finance, and many more domains.
+This repository features a collection of advanced Excel reports and projects across various domains, including Business, Sales, Finance, and more. It showcases a wide range of complex data analysis, visualization, and reporting techniques. Ideal for professionals looking to enhance their skills in Excel, these projects demonstrate real-world applications of Excel in diverse industries.
